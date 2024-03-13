@@ -1,2 +1,2 @@
-message="Welcome to GitHUb"
+message="My Second attempt"
 print(message)
